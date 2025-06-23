@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Midterm Application</string>
+    <string name="title_login">Login</string>
+    <string name="confirm_exit_title">Exit confirmation</string>
+    <string name="confirm_exit_message">Are you sure want to exit?</string>
+    <string name="confirm_exit_yes">YES</string>
+    <string name="confirm_exit_no">NO</string>
+    <string name="title_password_hint">Password</string>
+    <string name="title_username_hint">Username</string>
+    <string name="title_admin">Admin</string>
+    <string name="title_employee">Employee</string>
+    <string name="title_create_task">Create Task</string>
+    <string name="title_task_tile">Task Tile:</string>
+    <string name="title_assign_to">Assign To:</string>
+    <string name="title_list_of_task">List of Task</string>
+    <string name="title_create_new_task_button">Create a New Task</string>
+</resources>
