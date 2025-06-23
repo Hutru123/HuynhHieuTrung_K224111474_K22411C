@@ -1,6 +1,7 @@
 package com.example.midtermapplication;
 
 import android.os.Bundle;
+import android.widget.ListView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,7 +17,7 @@ import com.example.midtermapplication.model.Task;
 import java.util.ArrayList;
 import java.util.List;
 
-ppublic class EmployeeTaskActivity extends AppCompatActivity {
+public class EmployeeTaskActivity extends AppCompatActivity {
 
     ListView lvTasks;
     List<Task> taskList = new ArrayList<>();
